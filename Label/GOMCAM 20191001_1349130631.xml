@@ -1,0 +1,50 @@
+<annotation>
+	<folder>data</folder>
+	<filename>GOMCAM 20191001_1349130631.png</filename>
+	<path>C:\labeling\labeling_tool\data\GOMCAM 20191001_1349130631.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pepsi_Cola_1.5L</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>305</ymin>
+			<xmax>640</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coca_Cola_1.5L</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>157</ymin>
+			<xmax>575</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Choco_Pie_Banana</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>7</ymin>
+			<xmax>362</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>detection_data</folder>
+	<filename>GOMCAM 20191001_1517230062.png</filename>
+	<path>C:\Users\ncbaicam\Documents\[kiro]project\detection_data\GOMCAM 20191001_1517230062.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hush_Choco_Drink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>137</ymin>
+			<xmax>530</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pepsi_Cola_Can_250ml</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>516</xmin>
+			<ymin>110</ymin>
+			<xmax>618</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Choco_Pie_Banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>20</ymin>
+			<xmax>457</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>
