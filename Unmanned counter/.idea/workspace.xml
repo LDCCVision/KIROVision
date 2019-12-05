@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3fe8667-7eac-437a-9c39-708ed415a636" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Pycharm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pycharm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camera_GUI/WE_GUI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/camera_GUI/cvTopyqt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crop/python_rop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/item_image/item1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/item_image/item1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulelization/cameraAction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulelization/subLayouts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulelization/testWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_codes/camera_Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_codes/image_show_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_codes/img_p.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_image/NOT_LOGIN.png" beforeDir="false" afterPath="$PROJECT_DIR$/user_image/NOT_LOGIN.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_image/user1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_image/user2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_image/user3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_image/user4.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1QIuyA0LpSgzuTBz4CSIe5yHTNg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PyQt5_GUI\facenet" />
+      <recent name="C:\Pycharm\item_image" />
+      <recent name="C:\Pycharm\user_image" />
+      <recent name="C:\Pycharm\camera_GUI" />
+      <recent name="C:\Pycharm\레이아웃" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main_window">
+    <configuration name="WE_GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WE_GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_dictinary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_dictinary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/obj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/obj/main_window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mouse_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mouse_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="signUp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/obj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/obj/signUp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.WE_GUI" />
+      <item itemvalue="Python.create_dictinary" />
+      <item itemvalue="Python.main_window" />
+      <item itemvalue="Python.mouse_test" />
+      <item itemvalue="Python.signUp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_window" />
+        <item itemvalue="Python.WE_GUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3fe8667-7eac-437a-9c39-708ed415a636" name="Default Changelist" comment="" />
+      <created>1567470683274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567470683274</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Inspections" timestamp="1575395164163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1575395164163" />
+    <state x="712" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575448210086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1575448210086" />
+    <state width="1880" height="181" key="GridCell.Tab.0.bottom" timestamp="1575574992046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1880" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575574992046" />
+    <state width="1880" height="181" key="GridCell.Tab.0.center" timestamp="1575574992046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1880" height="181" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575574992046" />
+    <state width="1880" height="181" key="GridCell.Tab.0.left" timestamp="1575574992046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1880" height="181" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575574992046" />
+    <state width="1880" height="181" key="GridCell.Tab.0.right" timestamp="1575574992046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1880" height="181" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575574992046" />
+    <state x="294" y="285" key="SettingsEditor" timestamp="1575444507184">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="294" y="285" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575444507184" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/camera_GUI/cvTopyqt.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
