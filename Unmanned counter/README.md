@@ -4,7 +4,12 @@
 
 ## 1. Abstract
 
-사물인식과 얼굴인식 딥러닝 모델을 이용한 무인 계산대 프로젝트입니다.
+[시연영상[YouTube]](https://youtu.be/XbMtUq8GAPM) "자막에 영상에 대한 설명을 넣었습니다."
+
+---
+
+> #### 사물인식과 얼굴인식 딥러닝 모델을 이용한 무인 계산대 프로젝트입니다.
+
 YOLO_v3와 FaceNet이 사용되었습니다.
 
 인식할 수 있는 상품의 종류는 51가지이며 
@@ -37,9 +42,12 @@ tensorflow 2.x 버전대는 호환되지 않습니다.
 
 ### 2) 파일 복사
 
-오른쪽 링크에서 압축파일을 다운로드합니다.
+오른쪽 링크에서 압축파일을 다운로드합니다. [[Link]](https://drive.google.com/file/d/1cNmUbdONFoG3fmHxGyhcN5Fw7sR92c4g/view?usp=sharing)
 `Facenet` 폴더, `checkpoint ` 폴더, `yolov3_coco.pb`를 `Unmanned counter` 폴더에 복사해주세요.
 
 ## 3. How to run this model
 
 `Unmanned counter/obj/main_window.py` 파일을 실행하세요.
+
+기타 궁금한 점이나 문의사항이 있으시다면 koo9water@gmail.com로 연락주세요.
+
