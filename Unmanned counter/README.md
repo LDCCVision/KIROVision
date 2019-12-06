@@ -43,6 +43,7 @@ tensorflow 2.x 버전대는 호환되지 않습니다.
 ### 2) 파일 복사
 
 오른쪽 링크에서 압축파일을 다운로드합니다. [[Link]](https://drive.google.com/file/d/1cNmUbdONFoG3fmHxGyhcN5Fw7sR92c4g/view?usp=sharing)
+
 `Facenet` 폴더, `checkpoint ` 폴더, `yolov3_coco.pb`를 `Unmanned counter` 폴더에 복사해주세요.
 
 ## 3. How to run this model
